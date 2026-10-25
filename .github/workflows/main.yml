@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592300451799",
+    "firebase_url": "https://dls-tournament-1425e-default-rtdb.firebaseio.com",
+    "project_id": "dls-tournament-1425e",
+    "storage_bucket": "dls-tournament-1425e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592300451799:android:dae697cdff9f0bd70f4d92",
+        "android_client_info": {
+          "package_name": "dls.tournament.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592300451799-kvaen7j7d84t206e0qpohfsp0ojiqpi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxfxHNMcOTQi7qM--mYggqwAZN85wiqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592300451799-kvaen7j7d84t206e0qpohfsp0ojiqpi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
